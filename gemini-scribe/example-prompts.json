@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "sparkles",
+    "text": "Summarize my notes on Variance and Covariance using the Explain like I am 5 style"
+  },
+  {
+    "icon": "file-plus",
+    "text": "Rewrite my note on Interesting Courses and Subjects as a tweet thread"
+  },
+  {
+    "icon": "globe",
+    "text": "Research the concept of Standard Deviation and create a new technical note for it"
+  },
+  {
+    "icon": "folder-tree",
+    "text": "Organize my statistics notes from the root directory into a new folder called Statistics and Probability"
+  }
+]
