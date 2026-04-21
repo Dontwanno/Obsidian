@@ -1,0 +1,8 @@
+- Under-actuated Robotics/Robotic Manipulation Russ Tedrake
+- Optimization for Systems and Control
+- Model Predictive Control
+- Hybrid Control Systems
+- Nonlinear Control Systems
+- Dynamic Programming and Stochastic Control
+- Control Theory/Statistical Signal Processing/Modelling of Dynamical Systems/Filtering and Identification/Robust Control
+- Vision Language Action models
